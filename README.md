@@ -12,6 +12,12 @@ Solutions for Leetcode problems in C++ and Rust.
 - [36. Valid Sudoku](cpp/36_valid_sudoku.rs)
 - [128. Longest Consecutive Sequence](cpp/128_longest_consecutive_sequence.rs)
 - [125. Valid Palindrome](cpp/125_valid_palindrome.rs)
+- [167. Two Sum II - Input Array Is Sorted](cpp/167_two_sum_ii.cpp)
+- [15. 3Sum](cpp/15_3sum.cpp)
+- [11. Container With Most Water](cpp/11_container_with_most_water.cpp)
+- [42. Trapping Rain Water](cpp/42_trapping_rain_water.cpp)
+- [121. Best Time to Buy and Sell Stock](cpp/121_best_time_to_buy_and_sell_stock.cpp)
+- [3. Longest Substring Without Repeating Characters](cpp/3_longest_substring_without_repeating_characters.cpp)
 
 ## Rust
 - [217. Contains Duplicate](rust/217_contains_duplicate.rs)
@@ -23,4 +29,9 @@ Solutions for Leetcode problems in C++ and Rust.
 - [36. Valid Sudoku](rust/36_valid_sudoku.rs)
 - [128. Longest Consecutive Sequence](rust/128_longest_consecutive_sequence.rs)
 - [125. Valid Palindrome](rust/125_valid_palindrome.rs)
-  
+- [167. Two Sum II - Input Array Is Sorted](rust/167_two_sum_ii.rs)
+- [15. 3Sum](rust/15_3sum.rs)
+- [11. Container With Most Water](rust/11_container_with_most_water.rs)
+- [42. Trapping Rain Water](rust/42_trapping_rain_water.rs)
+- [121. Best Time to Buy and Sell Stock](rust/121_best_time_to_buy_and_sell_stock.rs)
+- [3. Longest Substring Without Repeating Characters](rust/3_longest_substring_without_repeating_characters.rs)
