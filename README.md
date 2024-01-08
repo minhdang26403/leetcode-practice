@@ -22,6 +22,9 @@ Solutions for Leetcode problems in C++ and Rust.
 - [567. Permutation in String](cpp/567_permutation_in_string.cpp)
 - [76. Minimum Window Substring](cpp/76_minimum_window_substring.cpp)
 - [239. Sliding Window Maximum](cpp/239_sliding_window_maximum.cpp)
+- [20. Valid Parentheses](cpp/20_valid_parentheses.cpp)
+- [155. Min Stack](cpp/155_min_stack.cpp)
+- [150. Evaluate Reverse Polish Notation](cpp/150_evaluate_reverse_polish_notation.cpp)
 
 ## Rust
 - [217. Contains Duplicate](rust/217_contains_duplicate.rs)
@@ -43,3 +46,6 @@ Solutions for Leetcode problems in C++ and Rust.
 - [567. Permutation in String](rust/567_permutation_in_string.rs)
 - [76. Minimum Window Substring](rust/76_minimum_window_substring.rs)
 - [239. Sliding Window Maximum](rust/239_sliding_window_maximum.rs)
+- [20. Valid Parentheses](rust/20_valid_parentheses.rs)
+- [155. Min Stack](rust/155_min_stack.rs)
+- [150. Evaluate Reverse Polish Notation](rust/150_evaluate_reverse_polish_notation.rs)
