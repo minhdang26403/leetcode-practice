@@ -25,6 +25,10 @@ Solutions for Leetcode problems in C++ and Rust.
 - [20. Valid Parentheses](cpp/20_valid_parentheses.cpp)
 - [155. Min Stack](cpp/155_min_stack.cpp)
 - [150. Evaluate Reverse Polish Notation](cpp/150_evaluate_reverse_polish_notation.cpp)
+- [22. Generate Parentheses](cpp/22_generate_parentheses.cpp)
+- [739. Daily Temperatures](cpp/739_daily_temperatures.cpp)
+- [853. Car Fleet](cpp/853_car_fleet.cpp)
+- [84. Largest Rectangle In Histogram](cpp/84_largest_rectangle_in_histogram.cpp)
 
 ## Rust
 - [217. Contains Duplicate](rust/217_contains_duplicate.rs)
@@ -49,3 +53,6 @@ Solutions for Leetcode problems in C++ and Rust.
 - [20. Valid Parentheses](rust/20_valid_parentheses.rs)
 - [155. Min Stack](rust/155_min_stack.rs)
 - [150. Evaluate Reverse Polish Notation](rust/150_evaluate_reverse_polish_notation.rs)
+- [739. Daily Temperatures](rust/739_daily_temperatures.rs)
+- [853. Car Fleet](rust/853_car_fleet.rs)
+- [84. Largest Rectangle In Histogram](rust/84_largest_rectangle_in_histogram.rs)
